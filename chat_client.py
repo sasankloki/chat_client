@@ -5,7 +5,7 @@ import re
 
 
 ''' 
-Code authored by Roop Sai S
+Code authored by sasank reddy
 This program is client side code which is written following this protocol-->
                 sending connection request
     client    ------------------------>      server
